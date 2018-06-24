@@ -6,6 +6,9 @@
   Control remote computers using discord bot and python 3.
 </p>
 
+
+#### [ ! ] If your target is a windows system, you may want to compile your payload. Do this with <a href="http://www.py2exe.org/">py2exe</a> or <a href="https://www.pyinstaller.org/">pyinstaller</a>.
+
 ### MAINTAINERS
 * **Alisson Moretto** | 
 Twitter: <a href="https://twitter.com/A1S0N_">@A1S0N_</a>
