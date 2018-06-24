@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/Idisagree/master/idisagree.png">  
+  <img src="https://raw.githubusercontent.com/UndeadSec/Idisagree/master/idisagree.png" width=50%>  
 </p>
 <h1 align="center">Idisagree v1.0</h1>
 <p align="center">
