@@ -75,6 +75,6 @@ Bitcoin Address: 1EmJ5KiAKzpyqGGHopAq9qukrVPS47T9bA
 
 ### VIDEO DEMO
 <p align="center">
-<a href="https://youtu.be/#">
+<a href="https://youtu.be/aXYaR-eEKzg">
   <img src="https://raw.githubusercontent.com/UndeadSec/Idisagree/master/video.png" />
 </a></p>
