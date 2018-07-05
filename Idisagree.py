@@ -59,7 +59,7 @@ def generate(botToken, botMaster):
 def config():   
     botToken = input('\n[{0}I{1}disagree{2}] BOT TOKEN: '.format(CYAN, RED, END))
     botMaster = input('[{0}I{1}disagree{2}] BOT MASTER: '.format(CYAN, RED, END))
-    print('\n[~] Configuration:\n [BOT TOKEN] = %s\n [BOT MASTER] = %s', botToken, botMaster)
+    print('\n[~] Configuration:\n [BOT TOKEN] =' + botToken + '\n [BOT MASTER] = ' + botMaster)
     confirm = input('\nConfirm ? (y/n) : ')
     if confirm.upper() == 'Y':
         print(generate(botToken, botMaster))
