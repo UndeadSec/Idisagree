@@ -16,7 +16,7 @@ def ascii():
 {2}[]/______\[] /  {2}██{0}  ██  ██ ██     ██ ██  ██ ██  ██ ██   ██     ██{1}
 {2}/ \______/ \/   {2}██{0}  ██████ ██ ██████ ██████ ██████ ██   ██████ ██████{1}
 {2}    /__\              {2}CONTROL REMOTE COMPUTERS USING DISCORD BOT{1} v1.0
-                                            Stay tuned on Twitter: @A1S0N_
+                                            Stay tuned on Twitter: @UndeadSec
 {3}[{1}?{3}]{1} IT'S YOUR FIRST TIME HERE?
 {3}:{1} FOLLOW THESE STEPS:
 
